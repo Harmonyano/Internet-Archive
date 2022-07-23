@@ -1,0 +1,1 @@
+user.js is the custimization file. The other files are directly from https://github.com/black7375/Firefox-UI-Fix/releases/
